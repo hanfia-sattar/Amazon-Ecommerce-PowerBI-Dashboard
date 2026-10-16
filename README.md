@@ -49,5 +49,4 @@ Based on the data analyzed in this dashboard, the following actions are recommen
 
 ## 📁 Repository Structure
 *   `Amazon_Dashboard.pbix` - The main Power BI project file.
-*   `Images/` - Contains screenshots of the dashboard pages.
 *   `README.md` - Project documentation and insights.
